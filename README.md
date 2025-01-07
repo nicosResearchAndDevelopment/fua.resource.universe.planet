@@ -1,4 +1,4 @@
-# @nrd/fua.resource.universe.planet
+# @fua/resource.universe.planet
 
 - **Model:** [`planets.ttl`](data/planets.ttl)
 - **Source:** [`planets.csv`](data/planets.csv)
